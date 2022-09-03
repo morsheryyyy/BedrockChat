@@ -14,13 +14,11 @@
 
 // Please fill up the content here before developing your plugin!
 
-static_assert(false, "Please modify your plugin information below and delete this line!");
-
-#define PLUGIN_NAME "Plugin Name"
+#define PLUGIN_NAME "BedrockChat"
 
 #define PLUGIN_INTRODUCTION "Plugin Introduction"
 
-#define PLUGIN_AUTHOR "Plugin Author Name"
+#define PLUGIN_AUTHOR "morsheryyyy"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
